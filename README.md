@@ -1,5 +1,5 @@
 # recipe-im-synesis
-Franz Plugin for IM Synesis chat
+Franz Plugin for frisbee chat Synesis chat
 
 # Install
-git clone https://github.com/Nefelim4ag/recipe-im-synesis.git ~/.config/Franz/recipes/dev/imsynesis
+git clone https://github.com/Nefelim4ag/recipe-frisbee-chat.git ~/.config/Franz/recipes/dev/frisbeechat

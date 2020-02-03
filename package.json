@@ -1,13 +1,13 @@
 {
-  "id": "imsynesis",
-  "name": "imsynesis",
+  "id": "frisbeechat",
+  "name": "frisbeechat",
   "version": "0.0.1",
-  "description": "im synesis chat",
+  "description": "fresbee synesis chat",
   "main": "index.js",
   "author": "Timofey Titovets <nefelim4ag@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/Nefelim4ag/recipe-im-synesis",
+  "repository": "https://github.com/Nefelim4ag/recipe-frisbee-chat",
   "config": {
-    "serviceURL": "https://chat.synesis.ru/"
+    "serviceURL": "https://web.frisbee.chat/"
   }
 }
